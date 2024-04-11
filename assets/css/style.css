@@ -1159,6 +1159,14 @@ section {
   transition: 1s;
 }
 
+.portfolio .portfolio-wrap embed {
+  transition: 1s;
+  min-height: 400px;
+  max-width: 100%;    
+  height: auto;
+  overflow:hidden;
+}
+
 .portfolio .portfolio-wrap .portfolio-info {
   opacity: 0;
   position: absolute;
@@ -2421,4 +2429,19 @@ section {
   text-align: center;
   font-size: 13px;
   color: #012970;
+}
+
+#myIframe
+{
+    position: relative;
+    /* height: 100%; */
+    width: 100%; 
+}
+
+#myCerts
+{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    max-height: 100%; 
 }
