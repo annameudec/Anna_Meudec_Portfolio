@@ -1161,7 +1161,7 @@ section {
 
 .portfolio .portfolio-wrap embed {
   transition: 1s;
-  min-height: 400px;
+  min-height: 350px;
   max-width: 100%;    
   height: auto;
   overflow:hidden;
