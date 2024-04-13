@@ -56,7 +56,7 @@ section {
   font-weight: 700;
   margin: 0;
   color: #4154f1;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 
 .section-header p {
@@ -840,6 +840,12 @@ section {
   font-weight: 700;
 }
 
+.services h2 {
+  font-size: 24px;
+  font-weight: 700;
+  color: #012970;
+}
+
 .services .service-box .read-more {
   display: inline-flex;
   align-items: center;
@@ -856,71 +862,71 @@ section {
 }
 
 .services .service-box.blue {
-  border-bottom: 3px solid #2db6fa;
+  border-bottom: 3px solid #4254F1;
 }
 
 .services .service-box.blue .icon {
-  color: #2db6fa;
-  background: #dbf3fe;
+  color: #4254F1;
+  background: #FFFFFF;
 }
 
 .services .service-box.blue .read-more {
-  color: #2db6fa;
+  color: #4254F1;
 }
 
 .services .service-box.blue:hover {
-  background: #2db6fa;
+  background: #4254F1;
 }
 
 .services .service-box.orange {
-  border-bottom: 3px solid #f68c09;
+  border-bottom: 3px solid #7482FA;
 }
 
 .services .service-box.orange .icon {
-  color: #f68c09;
-  background: #fde3c4;
+  color: #7482FA;
+  background: #FFFFFF;
 }
 
 .services .service-box.orange .read-more {
-  color: #f68c09;
+  color: #7482FA;
 }
 
 .services .service-box.orange:hover {
-  background: #f68c09;
+  background: #7482FA;
 }
 
 .services .service-box.green {
-  border-bottom: 3px solid #08da4e;
+  border-bottom: 3px solid #AAB5EF;
 }
 
 .services .service-box.green .icon {
-  color: #08da4e;
-  background: #cffddf;
+  color: #AAB5EF;
+  background: #FFFFFF;
 }
 
 .services .service-box.green .read-more {
-  color: #08da4e;
+  color: #AAB5EF;
 }
 
 .services .service-box.green:hover {
-  background: #08da4e;
+  background: #AAB5EF;
 }
 
 .services .service-box.red {
-  border-bottom: 3px solid #e9222c;
+  border-bottom: 3px solid #D3D7FC;
 }
 
 .services .service-box.red .icon {
-  color: #e9222c;
-  background: #fef7f8;
+  color: #D3D7FC;
+  background: #FFFFFF;
 }
 
 .services .service-box.red .read-more {
-  color: #e9222c;
+  color: #D3D7FC;
 }
 
 .services .service-box.red:hover {
-  background: #e9222c;
+  background: #D3D7FC;
 }
 
 .services .service-box.purple {
@@ -1132,6 +1138,12 @@ section {
 
 .portfolio #portfolio-flters li:last-child {
   margin-right: 0;
+}
+
+.portfolio h2 {
+  font-size: 24px;
+  font-weight: 700;
+  color: #012970;
 }
 
 .portfolio .portfolio-wrap {
