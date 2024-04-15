@@ -56,7 +56,7 @@ section {
   font-weight: 700;
   margin: 0;
   color: #4154f1;
-  /* text-transform: uppercase; */
+  text-transform: uppercase;
 }
 
 .section-header p {
@@ -660,6 +660,7 @@ section {
 .counts .count-box {
   display: flex;
   align-items: center;
+  /* vertical-align: middle; */
   padding: 30px;
   width: 100%;
   background: #fff;
@@ -1130,6 +1131,12 @@ section {
   border: 1px solid #fff;
 }
 
+.portfolio h2 {
+  font-size: 24px;
+  font-weight: 700;
+  color: #012970;
+}
+
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
   color: #4154f1;
@@ -1138,12 +1145,6 @@ section {
 
 .portfolio #portfolio-flters li:last-child {
   margin-right: 0;
-}
-
-.portfolio h2 {
-  font-size: 24px;
-  font-weight: 700;
-  color: #012970;
 }
 
 .portfolio .portfolio-wrap {
@@ -1255,6 +1256,8 @@ section {
   border-radius: 50%;
   transition: 0.3s;
 }
+
+
 
 .portfolio .portfolio-wrap .portfolio-links a i {
   font-size: 24px;
@@ -1619,6 +1622,12 @@ section {
   font-weight: 600;
   line-height: 1;
   transition: 0.3s;
+}
+
+.recent-blog-posts h2 {
+  font-size: 24px;
+  font-weight: 700;
+  color: #012970;
 }
 
 .recent-blog-posts .post-box .readmore i {
