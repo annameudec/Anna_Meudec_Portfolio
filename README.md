@@ -1,4 +1,4 @@
-# Coastal Erosion Microworld
+# Anna_Meudec_Portfolio
 #### Author: Anna Meudec
 
 This project was completed as part of MT412 and MT414 for my specialisim in Business Analytics at DCU.
