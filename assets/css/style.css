@@ -56,7 +56,6 @@ section {
   font-weight: 700;
   margin: 0;
   color: #4154f1;
-  text-transform: uppercase;
 }
 
 .section-header p {
@@ -1572,6 +1571,12 @@ section {
 
 .clients .clients-slider .swiper-pagination .swiper-pagination-bullet-active {
   background-color: #4154f1;
+}
+
+.clients h2 {
+  font-size: 24px;
+  font-weight: 700;
+  color: #012970;
 }
 
 /*--------------------------------------------------------------
